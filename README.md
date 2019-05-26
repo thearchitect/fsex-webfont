@@ -20,7 +20,7 @@ In between your HTML file's &lt;head&gt; tag
 ### Main use
 
 ```html
-<link rel="stylesheet" type-"text/css" href="https://cdn.jsdelivr.net/gh/kneedeepincode/fsex-webfont@latest/fsex300.css">
+<link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/gh/kneedeepincode/fsex-webfont@latest/fsex300.css">
 ```
 
 Then using &quot;font-family&quot; in CSS:
