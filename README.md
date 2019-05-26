@@ -26,5 +26,5 @@ In between your HTML file's &lt;head&gt; tag
 Then using &quot;font-family&quot; in CSS:
 
 ```css
-.fsex{font-family:"Fixedsys Excelsior 3.00".monospace;}
+.fsex{font-family:"Fixedsys Excelsior 3.00",monospace;}
 ```
