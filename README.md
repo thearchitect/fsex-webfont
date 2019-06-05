@@ -19,10 +19,10 @@ In between your HTML file's &lt;head&gt; tag
 
 ### Main use
 
-Use tag v1.0.0 for better caching:
+Use tag v1.0.1 for better caching:
 
 ```html
-<link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/gh/kneedeepincode/fsex-webfont@v1.0.0/fsex300.css">
+<link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/gh/kneedeepincode/fsex-webfont@v1.0.1/fsex300.css">
 ```
 
 or use latest commit (_**NOT**_ recommended!):
@@ -34,7 +34,7 @@ or use latest commit (_**NOT**_ recommended!):
 Then using &quot;font-family&quot; in CSS:
 
 ```css
-.fsex{font-family:"Fixedsys Excelsior 3.00",monospace;}
+.fsex{font-family:"Fixedsys Excelsior 3.01,monospace;}
 ```
 
 **&quot;font-size&quot; recommendations:**
