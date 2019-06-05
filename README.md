@@ -34,7 +34,7 @@ or use latest commit (_**NOT**_ recommended!):
 Then using &quot;font-family&quot; in CSS:
 
 ```css
-.fsex{font-family:"Fixedsys Excelsior 3.01,monospace;}
+.fsex{font-family:"Fixedsys Excelsior 3.01",monospace;}
 ```
 
 **&quot;font-size&quot; recommendations:**
